@@ -1,0 +1,25 @@
+{
+  "redirects": [
+    {
+      "source": "/leads",
+      "has": [{ "type": "host", "value": "veratiotech.com.br" }],
+      "destination": "https://leads.veratiotech.com.br/",
+      "permanent": true
+    },
+    {
+      "source": "/leads",
+      "has": [{ "type": "host", "value": "www.veratiotech.com.br" }],
+      "destination": "https://leads.veratiotech.com.br/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [{ "type": "host", "value": "leads.veratiotech.com.br" }],
+      "destination": "/leads",
+      "permanent": true
+    }
+  ],
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}
