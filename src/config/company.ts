@@ -1,13 +1,11 @@
 export const COMPANY_DATA = {
-  corporateName: "VERATIO TECNOLOGIA LTDA",
+  corporateName: "69.349.372 NIKHOLAS YAN MARQUES QUEIROZ",
   tradeName: "VERATIO TECH",
-  cnpj: "64.794.313/0001-41",
+  cnpj: "69.349.372/0001-24",
   address: {
-    street: "Av. Tabelião João Lopes",
-    city: "São Gotardo",
+    city: "Belo Horizonte",
     state: "MG",
-    zipCode: "38800-000",
-    full: "Av. Tabelião João Lopes, São Gotardo – MG, CEP 38800-000",
+    full: "Belo Horizonte – MG",
   },
   contact: {
     email: "contato@veratiotech.com.br",

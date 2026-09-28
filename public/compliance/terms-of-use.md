@@ -51,7 +51,7 @@ Nossos serviços são fornecidos "como estão". Embora nos esforcemos pela excel
 
 ## 8. Foro
 
-Fica eleito o foro da comarca de São Gotardo - MG para dirimir quaisquer questões oriundas destes termos, com renúncia de qualquer outro, por mais privilegiado que seja.
+Fica eleito o foro da comarca de Belo Horizonte - MG para dirimir quaisquer questões oriundas destes termos, com renúncia de qualquer outro, por mais privilegiado que seja.
 
 ---
 **Dúvidas?** Entre em contato:
