@@ -110,9 +110,7 @@ const Footer = () => {
             <div className="flex items-start gap-3 text-white/70">
               <MapPin className="h-4 w-4 text-veratio-light-blue mt-1 flex-shrink-0" />
               <p className="text-[14px] leading-relaxed">
-                {COMPANY_DATA.address.street}<br />
-                {COMPANY_DATA.address.city} – {COMPANY_DATA.address.state}<br />
-                CEP {COMPANY_DATA.address.zipCode}
+                {COMPANY_DATA.address.city} – {COMPANY_DATA.address.state}
               </p>
             </div>
             <a
